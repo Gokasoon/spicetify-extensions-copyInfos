@@ -1,5 +1,5 @@
 // NAME: Copy Infos
-// AUTHOR: Your Name
+// AUTHOR: Gokasoon
 // DESCRIPTION: Add a context menu to copy song title and artist
 
 (function CopyInfos() {
